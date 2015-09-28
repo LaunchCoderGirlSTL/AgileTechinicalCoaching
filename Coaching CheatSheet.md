@@ -1,4 +1,4 @@
-#Coaching Tips
+# Mob Programming Coaching Tips
 
 1. Where to sit 
   - Back of the room, the focus isn't about you
