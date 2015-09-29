@@ -1,18 +1,38 @@
 <!--
-Original Source: https://github.com/isidore/AgileTechinicalCoaching
+Original Tips Source: https://github.com/isidore/AgileTechinicalCoaching
+Source for Mob Programming: http://www.agilealliance.org/files/6214/0509/9357/ExperienceReport.2014.Zuill.pdf
 -->
 
 # Mob Programming Coaching Tips
 
-1. Where to sit 
-  - Back of the room, the focus isn't about you
-
+## Main Goal
 2. main goal
   - to get the group to mob
 
+## Setup
+1. Where to sit 
+  - Back of the room, the focus isn't about you
+
+
+5. rotation time 
+  - more people less time
+  - new people less time
+  - between 4 - 10 minutes is absolute method
+
+8. line numbers
+  - should be on
+
+
+10. end while still happy
+  - 2 hours max
+  - don't stay late
+
+## Coaching
 3. The 2 big questions
   - "does it work?"
   - "does it smell?"
+  12. what's the smell
+    - build habit of looking at code and asking if it is ok
 
 4. engagement
   - quiet = bad
@@ -22,33 +42,18 @@ Original Source: https://github.com/isidore/AgileTechinicalCoaching
   - across the table = louder
   - is the navigator navigating (good) is the driver thinking (bad)?
 
-5. rotation time 
-  - more people less time
-  - new people less time
-  - between 4 - 10 minutes is absolute method
-
 6. talk in questions
   - your goal is to bring things out of people not be a navigator
 
 7. direct talking
   - if you have to introduce something, try to talk to the navigators not the driver
 
-8. line numbers
-  - should be on
-
 9. encourage participation 
   - Positive reinforcement whenever appropriate 
   - no rat holes, force a decision and go
   - no abstract conversations, get to the work
 
-10. end while still happy
-  - 2 hours max
-  - don't stay late
-
 11. frequent check-ins
-
-12. what's the smell
-  - build habit of looking at code and asking if it is ok
 
 13. admitting I don't know
   - build habit of 
